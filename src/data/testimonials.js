@@ -34,7 +34,7 @@ export const testimonials = [
   {
     id: 5,
     name: 'Aisha Mokoena',
-    role: 'Homeowner, Johannesburg',
+    role: 'Homeowner, Durban',
     rating: 5,
     text: 'The wallpaper installation they did in my dining room is a work of art. The pattern matching is flawless. I have had so many compliments from guests. I will definitely be using Pandora Box for the rest of my home.',
     avatar: 'AM',

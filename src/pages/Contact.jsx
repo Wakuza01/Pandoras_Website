@@ -43,7 +43,7 @@ const contactItems = [
   {
     icon: MapPin,
     title: 'Visit Us',
-    lines: ['Johannesburg, Gauteng', 'South Africa'],
+    lines: ['Durban, KwaZulu-Natal', 'South Africa'],
     link: '#',
     linkLabel: 'Get Directions',
   },
@@ -397,7 +397,7 @@ function MapSection() {
             <MapPin size={24} className="text-gold" />
           </div>
           <div className="text-center">
-            <p className="text-navy-700 font-semibold">Johannesburg, Gauteng</p>
+            <p className="text-navy-700 font-semibold">Durban, KwaZulu-Natal</p>
             <p className="text-navy-600/60 text-sm">South Africa</p>
           </div>
           <a

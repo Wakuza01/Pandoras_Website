@@ -104,7 +104,7 @@ export default function Footer() {
               <li>
                 <a href="#" className="flex items-start gap-3 text-white/50 hover:text-white text-sm transition-colors duration-300 group">
                   <MapPin size={16} className="mt-0.5 text-gold flex-shrink-0" />
-                  <span>Johannesburg, Gauteng<br />South Africa</span>
+                  <span>Durban, KwaZulu-Natal<br />South Africa</span>
                 </a>
               </li>
               <li>

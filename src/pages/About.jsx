@@ -156,7 +156,7 @@ function MissionVision() {
 const milestones = [
   { year: '2012', title: 'Company Founded', desc: 'Pandora Box Interiors was established with a small but dedicated team of window treatment specialists.' },
   { year: '2015', title: 'Service Expansion', desc: 'We expanded our offerings to include wallpapers and professional window tinting, tripling our client base.' },
-  { year: '2018', title: 'Commercial Division', desc: 'We launched a dedicated commercial division serving offices, hotels, and retail spaces across Gauteng.' },
+  { year: '2018', title: 'Commercial Division', desc: 'We launched a dedicated commercial division serving offices, hotels, and retail spaces across KwaZulu-Natal.' },
   { year: '2021', title: '1,000 Projects', desc: 'A landmark milestone — our 1,000th completed project, a full-home transformation in Sandton.' },
   { year: '2024', title: 'Smart Blinds Launch', desc: 'We introduced our motorised and smart-home compatible blind range, leading the local market in innovation.' },
 ]

@@ -15,7 +15,7 @@ export const faqs = [
     id: 3,
     question: 'Do you service all areas?',
     answer:
-      'We service the greater Johannesburg and surrounding areas. Please contact us with your location and we will confirm availability. We also accommodate outlying areas for larger projects.',
+      'We service the greater Durban and surrounding KwaZulu-Natal areas. Please contact us with your location and we will confirm availability. We also accommodate outlying areas for larger projects.',
   },
   {
     id: 4,
