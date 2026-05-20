@@ -184,12 +184,12 @@ function ServicesOverview() {
 
 // ─── WHY CHOOSE US ───────────────────────────────────────────────────────────
 const reasons = [
-  { icon: Award, title: 'Premium Materials', desc: 'We source only the finest fabrics, films, and materials from trusted local and international suppliers.' },
-  { icon: CheckCircle, title: 'Expert Installation', desc: 'Our seasoned technicians ensure flawless, precise installation every single time.' },
-  { icon: Users, title: 'Personalised Service', desc: 'We listen, advise, and tailor every solution to your unique space, style, and budget.' },
-  { icon: Clock, title: 'Reliable & Punctual', desc: 'We respect your time. Our team arrives on schedule and completes work as committed.' },
-  { icon: Star, title: 'Quality Guarantee', desc: 'All products and workmanship are backed by our comprehensive quality guarantee.' },
-  { icon: Wrench, title: 'Full Aftercare', desc: 'From maintenance tips to repairs, we support you long after installation is complete.' },
+  { icon: Award, title: 'Premium Quality Materials', desc: 'We carefully select only the finest fabrics, films, and materials for every installation.' },
+  { icon: CheckCircle, title: 'Skilled Workmanship', desc: 'Every project is completed with precision, professionalism, and meticulous attention to detail.' },
+  { icon: Users, title: 'Customer-Focused', desc: 'We listen, advise, and tailor every solution to your unique space, style, and budget.' },
+  { icon: Clock, title: 'Fast Turnaround Times', desc: 'We respect your time and deliver projects efficiently without compromising on quality.' },
+  { icon: Star, title: 'Affordable Custom Solutions', desc: 'Premium interior solutions made accessible — quality craftsmanship at fair, transparent pricing.' },
+  { icon: Wrench, title: 'Reliable After-Sales Support', desc: 'Our relationship with clients continues long after installation with dependable ongoing support.' },
 ]
 
 function WhyChooseUs() {
@@ -214,7 +214,7 @@ function WhyChooseUs() {
               The Standard of Excellence in Interior Design
             </h2>
             <p className="text-white/50 text-lg leading-relaxed mb-8">
-              We don&rsquo;t just supply window treatments — we craft environments. Our team combines expert knowledge, premium materials, and genuine passion for beautiful interiors to deliver results that consistently exceed expectations.
+              We are committed to delivering stylish, practical, and high-quality interior solutions tailored to both residential and commercial environments. Our focus is on combining functionality, comfort, and modern aesthetics to transform every space into something exceptional.
             </p>
             <Link to="/about" className="btn-primary">
               Our Story <ArrowRight size={18} />

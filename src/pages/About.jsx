@@ -72,17 +72,20 @@ function AboutIntro() {
               Pandora Box Interiors — Where Vision Meets Craftsmanship
             </h2>
             <p className="text-navy-700/70 leading-relaxed mb-5">
-              Founded on a simple belief that every space deserves to be beautiful, Pandora Box Interiors has grown from a local window treatment specialist into one of the most trusted names in premium interior solutions across South Africa.
+              Pandora Box Interiors is a South African interior solutions company specialising in blinds, curtains, wallpapers, window tinting, monkey screens, upholstery, custom couches, and interior décor enhancements.
+            </p>
+            <p className="text-navy-700/70 leading-relaxed mb-5">
+              We are committed to delivering stylish, practical, and high-quality interior solutions tailored to both residential and commercial environments. Our focus is on combining functionality, comfort, and modern aesthetics to transform every space into something exceptional.
             </p>
             <p className="text-navy-700/70 leading-relaxed mb-8">
-              Our team of skilled designers and installation experts work passionately to deliver bespoke solutions — from custom-crafted curtains and precision-fitted blinds to statement wallpapers, professional window tinting, and protective monkey screens. Every project receives our full attention and the highest standard of workmanship.
+              With a passion for workmanship and customer satisfaction, Pandora Box Interiors provides professional installations, premium materials, and reliable after-sales service to ensure long-lasting quality and customer confidence.
             </p>
             <div className="space-y-3 mb-8">
               {[
-                'Premium materials from trusted suppliers',
-                'Free in-home measurement and consultation',
-                'Expert installation by certified technicians',
-                'Comprehensive product and workmanship guarantee',
+                'Premium quality materials carefully selected',
+                'Professional installations with precision and care',
+                'Reliable after-sales support and maintenance',
+                'Residential and commercial expertise',
               ].map((point) => (
                 <div key={point} className="flex items-start gap-3">
                   <CheckCircle size={18} className="text-gold mt-0.5 flex-shrink-0" />
@@ -106,17 +109,17 @@ function MissionVision() {
     {
       icon: Target,
       title: 'Our Mission',
-      text: 'To provide South African homes and businesses with the finest interior window treatment solutions, delivered with meticulous attention to detail, uncompromising quality, and service that genuinely exceeds expectations at every touchpoint.',
+      text: 'To provide stylish, affordable, and high-quality interior solutions that enhance comfort, privacy, and elegance for every client.',
     },
     {
       icon: Eye,
       title: 'Our Vision',
-      text: 'To be the most trusted and respected interior solutions brand in South Africa — recognised for transforming ordinary spaces into extraordinary environments through innovation, artistry, and an enduring commitment to our craft.',
+      text: 'To become one of South Africa\'s leading interior improvement and décor solution providers known for quality workmanship, innovation, and customer satisfaction.',
     },
     {
       icon: Heart,
       title: 'Our Values',
-      text: 'Integrity in every quote, honesty in every interaction, passion in every installation. We treat your home as if it were our own — with care, respect, and a genuine desire to create something truly special.',
+      text: 'Professionalism, Quality Workmanship, Reliability, Customer Satisfaction, Integrity, Attention to Detail, Innovation and Excellence — these are the principles that guide everything we do.',
     },
   ]
 
@@ -217,8 +220,11 @@ function QualityGuarantee() {
             <h2 className="heading-lg text-navy-900 mb-6">
               Your Satisfaction is Our Guarantee
             </h2>
+            <p className="text-navy-700/70 leading-relaxed mb-4">
+              At Pandora Box Interiors, quality workmanship is at the heart of everything we do. We carefully select materials and ensure that every installation and project is completed with precision, professionalism, and attention to detail.
+            </p>
             <p className="text-navy-700/70 leading-relaxed mb-6">
-              We stand firmly behind the quality of every product we supply and every installation we complete. Our comprehensive guarantee ensures that your investment is protected, and that you can enjoy your beautifully transformed space with complete peace of mind.
+              Our relationship with clients continues long after installation. We pride ourselves on dependable after-sales support and maintenance services to ensure lasting customer satisfaction.
             </p>
             <div className="grid grid-cols-2 gap-5">
               {[

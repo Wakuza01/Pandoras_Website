@@ -50,15 +50,15 @@ const contactItems = [
   {
     icon: Phone,
     title: 'Call Us',
-    lines: ['+27 (0) 00 000 0000', 'Mon – Sat during business hours'],
-    link: 'tel:+27000000000',
+    lines: ['081 719 0823', 'Reza Khan — Mon – Sat during business hours'],
+    link: 'tel:+27817190823',
     linkLabel: 'Call Now',
   },
   {
     icon: Mail,
     title: 'Email Us',
-    lines: ['info@pandoraboxinteriors.co.za', 'We reply within 24 hours'],
-    link: 'mailto:info@pandoraboxinteriors.co.za',
+    lines: ['pandoraboxinteriors@gmail.com', 'We reply within 24 hours'],
+    link: 'mailto:pandoraboxinteriors@gmail.com',
     linkLabel: 'Send Email',
   },
   {
@@ -121,11 +121,11 @@ function ContactCards() {
 // ─── CONTACT FORM ────────────────────────────────────────────────────────────
 const serviceOptions = [
   'Blinds',
-  'Curtains',
-  'Wallpapers',
+  'Curtains & Soft Furnishings',
+  'Wallpapers & Interior Décor',
   'Window Tinting',
-  'Monkey Screens',
-  'Blind Repairs',
+  'Monkey Screens & Security',
+  'Upholstery & Custom Furniture',
   'Multiple Services',
   'General Enquiry',
 ]

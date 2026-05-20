@@ -14,11 +14,11 @@ const quickLinks = [
 
 const serviceLinks = [
   'Blinds',
-  'Curtains',
-  'Wallpapers',
+  'Curtains & Soft Furnishings',
+  'Wallpapers & Interior Décor',
   'Window Tinting',
-  'Monkey Screens',
-  'Blind Repairs',
+  'Monkey Screens & Security',
+  'Upholstery & Custom Furniture',
 ]
 
 export default function Footer() {
@@ -110,13 +110,13 @@ export default function Footer() {
               <li>
                 <a href="tel:+27000000000" className="flex items-center gap-3 text-white/50 hover:text-gold text-sm transition-colors duration-300">
                   <Phone size={16} className="text-gold flex-shrink-0" />
-                  +27 (0) 00 000 0000
+                  081 719 0823
                 </a>
               </li>
               <li>
-                <a href="mailto:info@pandoraboxinteriors.co.za" className="flex items-center gap-3 text-white/50 hover:text-gold text-sm transition-colors duration-300">
+                <a href="mailto:pandoraboxinteriors@gmail.com" className="flex items-center gap-3 text-white/50 hover:text-gold text-sm transition-colors duration-300">
                   <Mail size={16} className="text-gold flex-shrink-0" />
-                  info@pandoraboxinteriors.co.za
+                  pandoraboxinteriors@gmail.com
                 </a>
               </li>
               <li>

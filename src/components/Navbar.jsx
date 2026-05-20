@@ -79,7 +79,7 @@ export default function Navbar() {
             {/* CTA + Hamburger */}
             <div className="flex items-center gap-4">
               <a
-                href="tel:+27000000000"
+                href="tel:+27817190823"
                 className="hidden lg:flex items-center gap-2 text-white/70 hover:text-gold transition-colors duration-300 text-sm"
               >
                 <Phone size={15} />
@@ -173,7 +173,7 @@ export default function Navbar() {
               transition={{ delay: 0.5 }}
               className="px-10 pb-10 text-white/30 text-sm"
             >
-              <a href="tel:+27000000000" className="hover:text-gold transition-colors">
+              <a href="tel:+27817190823" className="hover:text-gold transition-colors">
                 +27 (0) 00 000 0000
               </a>
             </motion.div>
