@@ -48,8 +48,8 @@ function AboutIntro() {
             <div className="relative">
               <div className="aspect-[4/5] rounded-3xl overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80"
-                  alt="Our team at work"
+                  src="https://vawdasinteriors.co.za/wp-content/uploads/2022/06/pinch-1.jpg"
+                  alt="Premium curtain installation"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -245,8 +245,8 @@ function QualityGuarantee() {
             <div className="relative aspect-square max-w-md mx-auto">
               <div className="absolute inset-0 rounded-3xl overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
-                  alt="Quality craftsmanship"
+                  src="https://vawdasinteriors.co.za/wp-content/uploads/2020/01/IMG_6894.jpg"
+                  alt="Quality wallpaper installation"
                   className="w-full h-full object-cover"
                 />
               </div>

@@ -11,7 +11,7 @@ function ServicesHero() {
     <section className="relative min-h-[60vh] flex items-end overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1615529182904-14819c35db37?w=1600&q=85"
+          src="https://vawdasinteriors.co.za/wp-content/uploads/2022/06/wave-3.jpg"
           alt="Interior services"
           className="w-full h-full object-cover"
         />

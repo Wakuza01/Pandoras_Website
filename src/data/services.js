@@ -14,7 +14,7 @@ export const services = [
       'Custom Blind Installations',
       'Blind Repairs & Maintenance',
     ],
-    image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/vertical-blind-02-1024x683-1.webp',
     gradient: 'from-navy-900 to-navy-700',
   },
   {
@@ -31,7 +31,7 @@ export const services = [
       'Interior Styling',
       'Tailor-Made Soft Furnishings',
     ],
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/long-drape-1.jpg',
     gradient: 'from-navy-800 to-navy-600',
   },
   {
@@ -46,7 +46,7 @@ export const services = [
       'Decorative Interior Finishes',
       'Residential & Commercial Applications',
     ],
-    image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/01/IMG_5614-scaled.jpg',
     gradient: 'from-navy-700 to-navy-500',
   },
   {
@@ -94,7 +94,7 @@ export const services = [
       'Custom Couch Manufacturing',
       'Furniture Restoration',
     ],
-    image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/02/IMG_3282-scaled.jpg',
     gradient: 'from-navy-700 to-navy-500',
   },
 ]

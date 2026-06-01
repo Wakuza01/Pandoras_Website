@@ -284,11 +284,11 @@ function Stats() {
 
 // ─── GALLERY PREVIEW ─────────────────────────────────────────────────────────
 const galleryImages = [
-  { src: 'https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=80', alt: 'Elegant blinds installation', span: 'col-span-1 row-span-2' },
-  { src: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80', alt: 'Luxury curtains', span: 'col-span-1' },
-  { src: 'https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=600&q=80', alt: 'Designer wallpaper', span: 'col-span-1' },
-  { src: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=600&q=80', alt: 'Modern interior', span: 'col-span-1' },
-  { src: 'https://images.unsplash.com/photo-1630699144867-37acec97df5a?w=600&q=80', alt: 'Window treatment', span: 'col-span-1' },
+  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/goblet1.jpg', alt: 'Custom goblet pleat curtains', span: 'col-span-1 row-span-2' },
+  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/vertical-blind-02-1024x683-1.webp', alt: 'Vertical blinds installation', span: 'col-span-1' },
+  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/01/IMG_5614-scaled.jpg', alt: 'Designer wallpaper installation', span: 'col-span-1' },
+  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/wave-1.jpg', alt: 'Wave curtains', span: 'col-span-1' },
+  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/02/IMG_3282-scaled.jpg', alt: 'Custom upholstery', span: 'col-span-1' },
 ]
 
 function GalleryPreview() {
