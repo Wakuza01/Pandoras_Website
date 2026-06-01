@@ -285,9 +285,9 @@ function Stats() {
 // ─── GALLERY PREVIEW ─────────────────────────────────────────────────────────
 const galleryImages = [
   { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/goblet1.jpg', alt: 'Custom goblet pleat curtains', span: 'col-span-1 row-span-2' },
-  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/vertical-blind-02-1024x683-1.webp', alt: 'Vertical blinds installation', span: 'col-span-1' },
+  { src: 'https://www.luminosblinds.co.za/wp-content/uploads/2026/03/Roller-Blinds-1920-2.jpg', alt: 'Roller blinds installation', span: 'col-span-1' },
   { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/01/IMG_5614-scaled.jpg', alt: 'Designer wallpaper installation', span: 'col-span-1' },
-  { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/wave-1.jpg', alt: 'Wave curtains', span: 'col-span-1' },
+  { src: 'https://www.luminosblinds.co.za/wp-content/uploads/2025/02/Custom-Wood-scaled-1.webp', alt: 'Custom wood venetian blinds', span: 'col-span-1' },
   { src: 'https://vawdasinteriors.co.za/wp-content/uploads/2020/02/IMG_3282-scaled.jpg', alt: 'Custom upholstery', span: 'col-span-1' },
 ]
 
@@ -401,7 +401,7 @@ function CTABanner() {
     <section className="relative overflow-hidden py-24">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80"
+          src="https://www.luminosblinds.co.za/wp-content/uploads/2026/03/Simuwood-Venetian-Blinds-1920-2.jpg"
           alt="Interior background"
           className="w-full h-full object-cover"
         />

@@ -11,8 +11,8 @@ function ServicesHero() {
     <section className="relative min-h-[60vh] flex items-end overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://vawdasinteriors.co.za/wp-content/uploads/2022/06/wave-3.jpg"
-          alt="Interior services"
+          src="https://www.luminosblinds.co.za/wp-content/uploads/2026/03/Vertical-Blinds-In-South-Africa-1920.jpg"
+          alt="Interior blind and curtain services"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-navy-950 via-navy-900/60 to-navy-800/30" />
@@ -119,8 +119,8 @@ function ServicesCTA() {
     <section className="relative py-28 overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1600&q=85"
-          alt="Luxury interior"
+          src="https://www.luminosblinds.co.za/wp-content/uploads/2026/03/Lumi-Doppio-Blinds-1920.jpg"
+          alt="Luxury blinds interior"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-navy-950/85" />

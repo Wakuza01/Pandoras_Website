@@ -14,7 +14,7 @@ export const services = [
       'Custom Blind Installations',
       'Blind Repairs & Maintenance',
     ],
-    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/vertical-blind-02-1024x683-1.webp',
+    image: 'https://www.luminosblinds.co.za/wp-content/uploads/2026/03/Roller-Blinds-1920-2.jpg',
     gradient: 'from-navy-900 to-navy-700',
   },
   {

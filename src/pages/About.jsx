@@ -10,8 +10,8 @@ function AboutHero() {
     <section className="relative min-h-[60vh] flex items-end overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=85"
-          alt="Interior design studio"
+          src="https://www.luminosblinds.co.za/wp-content/uploads/2025/02/Custom-Wood-scaled-1.webp"
+          alt="Custom wood venetian blinds"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-navy-950 via-navy-900/70 to-navy-900/40" />
