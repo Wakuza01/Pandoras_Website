@@ -31,7 +31,7 @@ export const services = [
       'Interior Styling',
       'Tailor-Made Soft Furnishings',
     ],
-    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/eyelets1.jpg',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/Wave-Track-Curt-1024x576-1.webp',
     gradient: 'from-navy-800 to-navy-600',
   },
   {
