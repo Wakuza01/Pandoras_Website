@@ -21,7 +21,7 @@ export default function ServiceCard({ service, index = 0 }) {
         <motion.img
           src={service.image}
           alt={service.title}
-          className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+          className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105"
         />
         <div className={`absolute inset-0 bg-gradient-to-t ${service.gradient} opacity-60`} />
 

@@ -61,6 +61,9 @@ export default {
         '200%': '200%',
         '400%': '400%',
       },
+      scale: {
+        '102': '1.02',
+      },
       boxShadow: {
         'glass': '0 8px 32px 0 rgba(10, 26, 58, 0.15)',
         'gold': '0 4px 24px rgba(212, 150, 26, 0.3)',

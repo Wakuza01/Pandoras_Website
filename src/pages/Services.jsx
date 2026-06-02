@@ -74,7 +74,7 @@ function ServiceSection({ service, index }) {
                 <motion.img
                   src={service.image}
                   alt={service.title}
-                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                  className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-102"
                 />
                 <div className={`absolute inset-0 bg-gradient-to-t ${service.gradient} opacity-20 rounded-3xl`} />
               </div>
