@@ -48,8 +48,8 @@ function AboutIntro() {
             <div className="relative">
               <div className="aspect-[4/5] rounded-3xl overflow-hidden">
                 <img
-                  src="https://vawdasinteriors.co.za/wp-content/uploads/2022/06/pinch-1.jpg"
-                  alt="Premium curtain installation"
+                  src="https://vawdasinteriors.co.za/wp-content/uploads/2022/07/lumi_vela_3-1024x819-1.webp"
+                  alt="Premium sheer curtain installation"
                   className="w-full h-full object-cover"
                 />
               </div>
