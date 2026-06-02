@@ -31,7 +31,7 @@ export const services = [
       'Interior Styling',
       'Tailor-Made Soft Furnishings',
     ],
-    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/long-drape-1.jpg',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/06/eyelets1.jpg',
     gradient: 'from-navy-800 to-navy-600',
   },
   {
@@ -62,7 +62,7 @@ export const services = [
       'Heat & Glare Reduction',
       'Privacy Enhancement',
     ],
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/lumi_vela_4-1024x819-1.webp',
     gradient: 'from-navy-900 to-navy-700',
   },
   {
@@ -77,7 +77,7 @@ export const services = [
       'Aluminium Framing',
       'Security & Ventilation Solutions',
     ],
-    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80',
+    image: 'https://vawdasinteriors.co.za/wp-content/uploads/2022/07/Luminos_vertical_blind_5-1024x768-1.webp',
     gradient: 'from-navy-800 to-navy-600',
   },
   {

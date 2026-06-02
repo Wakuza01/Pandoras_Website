@@ -10,7 +10,7 @@ function ContactHero() {
     <section className="relative min-h-[50vh] flex items-end overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=85"
+          src="https://vawdasinteriors.co.za/wp-content/uploads/2022/07/SDC13989-1024x768-1.webp"
           alt="Contact us"
           className="w-full h-full object-cover"
         />
