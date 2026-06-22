@@ -59,8 +59,8 @@ function AboutIntro() {
                 transition={{ duration: 5, repeat: Infinity, ease: 'easeInOut' }}
                 className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-5 shadow-card-hover hidden md:block"
               >
-                <p className="text-4xl font-display font-bold text-gold">12+</p>
-                <p className="text-navy-700/70 text-sm font-medium">Years of Excellence</p>
+                <p className="text-4xl font-display font-bold text-gold">100%</p>
+                <p className="text-navy-700/70 text-sm font-medium">Quality Guaranteed</p>
               </motion.div>
               <div className="absolute top-6 -left-6 w-24 h-24 rounded-2xl bg-gold/10 hidden md:block" />
             </div>
@@ -157,11 +157,10 @@ function MissionVision() {
 
 // ─── TIMELINE ────────────────────────────────────────────────────────────────
 const milestones = [
-  { year: '2012', title: 'Company Founded', desc: 'Pandora Box Interiors was established with a small but dedicated team of window treatment specialists.' },
-  { year: '2015', title: 'Service Expansion', desc: 'We expanded our offerings to include wallpapers and professional window tinting, tripling our client base.' },
-  { year: '2018', title: 'Commercial Division', desc: 'We launched a dedicated commercial division serving offices, hotels, and retail spaces across KwaZulu-Natal.' },
-  { year: '2021', title: '1,000 Projects', desc: 'A landmark milestone — our 1,000th completed project, a full-home transformation in Sandton.' },
-  { year: '2024', title: 'Smart Blinds Launch', desc: 'We introduced our motorised and smart-home compatible blind range, leading the local market in innovation.' },
+  { year: '01', title: 'Company Established', desc: 'Pandora Box Interiors was founded with a clear vision — to deliver premium interior solutions with honesty, quality and care to every client.' },
+  { year: '02', title: 'Premium Supplier Partnerships', desc: 'From day one, we partnered with Luminos Blinds and Vawdas Interiors — two of South Africa\'s most respected interior product suppliers — ensuring our clients receive only the best.' },
+  { year: '03', title: 'First Projects Delivered', desc: 'We completed our first residential and commercial projects, each one a testament to our commitment to precision workmanship and client satisfaction.' },
+  { year: '04', title: 'Growing Our Range', desc: 'We expanded beyond blinds and curtains to offer wallpapers, window tinting, monkey screens, and upholstery — becoming a true one-stop interior solutions provider.' },
 ]
 
 function Timeline() {
@@ -171,9 +170,9 @@ function Timeline() {
       <div className="container-xl relative z-10">
         <ScrollReveal className="text-center mb-16">
           <p className="section-label">Our Journey</p>
-          <h2 className="heading-lg text-white mb-4">A Decade of Excellence</h2>
+          <h2 className="heading-lg text-white mb-4">Built on Premium Partnerships</h2>
           <p className="text-white/40 max-w-lg mx-auto">
-            From humble beginnings to becoming a leading interior solutions brand — every year has been defined by growth, learning, and an unwavering commitment to our craft.
+            From our first project to our growing portfolio — every step has been defined by trusted supplier partnerships, quality workmanship, and an unwavering commitment to our clients.
           </p>
         </ScrollReveal>
 
@@ -272,7 +271,7 @@ function AboutCTA() {
             Ready to Experience the Pandora Box Difference?
           </h2>
           <p className="text-white/50 max-w-lg mx-auto mb-10">
-            Let us show you why hundreds of South African homeowners and businesses choose us for their interior solutions. Begin with a complimentary consultation.
+            Let us show you why South African homeowners and businesses choose us for their interior solutions. Begin with a complimentary consultation.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link to="/contact" className="btn-primary">

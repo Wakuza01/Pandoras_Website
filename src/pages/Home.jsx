@@ -249,10 +249,10 @@ function WhyChooseUs() {
 
 // ─── STATS ───────────────────────────────────────────────────────────────────
 const stats = [
-  { value: '1500', suffix: '+', label: 'Projects Completed' },
-  { value: '12', suffix: '+', label: 'Years of Experience' },
-  { value: '98', suffix: '%', label: 'Client Satisfaction' },
   { value: '6', suffix: '', label: 'Premium Services' },
+  { value: '2', suffix: '', label: 'Trusted Suppliers' },
+  { value: '100', suffix: '%', label: 'Quality Guaranteed' },
+  { value: '98', suffix: '%', label: 'Client Satisfaction' },
 ]
 
 function Stats() {
