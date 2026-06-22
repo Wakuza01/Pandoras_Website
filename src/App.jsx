@@ -6,11 +6,18 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import LoadingScreen from './components/LoadingScreen'
 import PageTransition from './components/PageTransition'
+import ScrollUpButton from './components/ScrollUpButton'
 
 import Home from './pages/Home'
 import About from './pages/About'
 import Services from './pages/Services'
 import Contact from './pages/Contact'
+
+function ScrollToTop() {
+  const { pathname } = useLocation()
+  useEffect(() => { window.scrollTo(0, 0) }, [pathname])
+  return null
+}
 
 function AnimatedRoutes() {
   const location = useLocation()
@@ -42,11 +49,13 @@ function AppContent() {
       </AnimatePresence>
       {!loading && (
         <>
+          <ScrollToTop />
           <Navbar />
           <main>
             <AnimatedRoutes />
           </main>
           <Footer />
+          <ScrollUpButton />
         </>
       )}
     </>
